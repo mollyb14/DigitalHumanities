@@ -1,8 +1,8 @@
 #load table
-dataMeaning=read.table('meaningExample.txt', header=T, sep="\t")
+dataMeaning=read.table('VideoEssayLength', header=T, sep="\t")
 
 #plot with the labels
-plot(dataMeaning$length,dataMeaning$meanings,type="n",xlab="number of letters",ylab="number of meanings")
+plot(dataMeaning$length,dataMeaning$title,type="n",xlab="year,ylab="title")
 text(dataMeaning$length,dataMeaning$meanings,dataMeaning$entry, cex= 1)
 
 #Now we'd like to build a regression model, i.e., find the equation for the straight line that best defines the dataset. 
