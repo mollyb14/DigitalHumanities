@@ -1,6 +1,6 @@
-State 	number of theatres	  population
-AL			    2						    	5,098,746
-AK			    2						    	732,984
+State     	number of theatres	        population
+AL		         	    2						    	5,098,746
+AK		         	    2						    	732,984
 AZ			    5						    	7,453,517
 AR			    0						    	3,063,152
 CA			    47						    38,915,693
