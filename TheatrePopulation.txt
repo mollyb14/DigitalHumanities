@@ -31,14 +31,14 @@ new jersey	          6	               9,255,437
 new mexico	          5        	       2,110,011
 new york	           40	              19,496,810
 nevada	              0	               3,209,142
-north carolina       10	              10,832,061
+north carolina           10	              10,832,061
 north dakota	        1	                 780,588
 ohio	               14       	      11,747,774
 oklahoma	            2	               4,048,375
 oregon	             11	               4,223,973
 pennsylvania	       15	              12,931,957
 rhode island	        3	               1,090,483
-south carolina        2	               5,372,002
+south carolina             2	               5,372,002
 south dakota	        1	                 923,484
 tennessee	            1	               7,134,327
 texas	                7	              30,500,280
